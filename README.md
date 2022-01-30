@@ -1,2 +1,2 @@
-# MukhorinAlexsandr.github.io
+# Александр Мухорин
 Мой первый сайт
